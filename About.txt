@@ -1,0 +1,19 @@
+Andrew Shoffler, 2023 - APS332
+Erica Chen, 2023 - EC875
+Harrison Beerley, 2023 - HJB48
+Miyo Imai, 2023 - MEI28
+
+Abstract:
+     Unite is a website which acts as a platform for Drexel students to interact
+as well as to buy and sell unwanted items. At the end of each quarter or semester, 
+most students typically have unwanted furniture that they either throw away or have
+to store for a large amount of money. We created a platform to solve this issue and
+allow students to post to inform others of the sale. The website also provides a place
+to allow students to post notices or questions in general. We value quality, efficiency, 
+and reliability, and want to provide our users with an aesthetically pleasing, user 
+friendly intuitive interface that allows for quick and easy posting.
+     There will be a forum for students to ask questions about anything from 
+help with homework to where the best places to eat are. As well as a private messaging system.
+     Another aspect of this product is that it will be targeted to university students 
+in the Philadelphia area. In order to verify the users, an email will be sent out to make 
+sure they signed up with a valid email address 

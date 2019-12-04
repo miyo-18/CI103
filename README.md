@@ -4,4 +4,4 @@ The purpose of this class was to build off of the prototype website created in C
 <br />
 This repository contains the files used for our website. We used Django and python to create the core of our website, and Heroku to host the website and the database. Here is our <a href="https://unite-site.herokuapp.com/">final website</a>. You can also view the video in this <a href="https://docs.google.com/presentation/d/1jeKleFhN81CiGVK-Zeev0NAZbV5n60M1zGqMoepng-s/edit#slide=id.g589a60632e_2_25">google slides presentation</a> to get an overview of the functions of our website. <br />
 <br />
-For this project, I was a developer. I worked primarily on getting the log in and create account features, which includes email authentication.
+For this project, I was a developer. I worked primarily on the features related to account creation and email authentication.
